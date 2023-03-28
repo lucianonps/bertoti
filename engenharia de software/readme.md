@@ -21,7 +21,8 @@ são as especificações e funcionalidades que um software ou sistema deve ter p
 
 2- Segurança vs. Disponibilidade: em um sistema que lida com informações confidenciais, é importante ter segurança robusta para proteger os dados. No entanto, medidas de segurança rigorosas, como a autenticação de dois fatores, podem tornar o sistema menos disponível.
 
-
+Diagrama de caso de uso:
+![image](https://user-images.githubusercontent.com/102562662/228097080-4bd6222e-6c27-4afa-a856-4dfdaf19046a.png)
 
 Classe uml atualização:
 ![image](https://user-images.githubusercontent.com/102562662/227730176-d5d03d0b-dc29-4292-a3b3-343c555db3fc.png)
