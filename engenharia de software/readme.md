@@ -1,4 +1,5 @@
 O que é engenharia de sofware ?
+
 Os engenheiros de software são responsáveis por garantir que o software que desenvolvem seja eficiente, escalável, seguro e fácil de manter. Eles precisam considerar aspectos como a arquitetura do software, a escolha das tecnologias adequadas, a implementação de padrões de codificação, a gestão do ciclo de vida do software e o gerenciamento de mudanças. Eles também precisam considerar a escalabilidade do software para garantir que ele possa lidar com cargas de trabalho crescentes sem diminuir o desempenho ou comprometer a segurança.
 
 
