@@ -20,7 +20,7 @@ public class Clube {
 	}
 	
 	public void AddSocio(Socio socio) {
-		socio.add(socio);
+		Socio.add(socio);
 			
 	}
 
