@@ -1,8 +1,8 @@
-package clube.example;
+package com.example.Model;
 
 public class Socio {
+    private int id;
     private String name;
-    private double cpf;
     private Long telefone;
     private Integer idade;
 
@@ -10,11 +10,11 @@ public class Socio {
 
     }
 
-    public Socio(String name, double cpf, Long telefone, Integer idade) {
+    public Socio(int id, String name, Integer idade, Long telefone) {
+        this.id = id;
         this.name = name;
-        this.cpf = cpf;
-        this.telefone = telefone;
         this.idade = idade;
+        this.telefone = telefone;
     }
 
     public Mensalidade buscarMensalidadePorId(Clube ac, Integer id) {
@@ -45,14 +45,6 @@ public class Socio {
         this.name = name;
     }
 
-    public double getCpf() {
-        return cpf;
-    }
-
-    public void setCpf(double cpf) {
-        this.cpf = cpf;
-    }
-
     public Long getTelefone() {
         return telefone;
     }
@@ -70,6 +62,14 @@ public class Socio {
     }
 
     public static void add(Socio socio) {
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
 }

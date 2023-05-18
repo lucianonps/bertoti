@@ -1,4 +1,4 @@
-package clube.example;
+package com.example.Model;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -65,7 +65,7 @@ public class Clube {
         return socio;
     }
 
-    public void setId() {
+    public void setId(int i) {
     }
 
 }

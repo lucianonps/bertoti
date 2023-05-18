@@ -1,4 +1,4 @@
-package clube.example;
+package com.example.Model;
 
 public class Mensalidade {
     private Integer id;
