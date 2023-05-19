@@ -3,7 +3,7 @@ package com.example.Teste;
 import com.example.Model.Socio;
 
 public class informacao {
-    public static Socio buildAluno(Integer id) {
+    public static Socio buildSocio(Integer id) {
 
         Socio socio = new Socio(
                 id,

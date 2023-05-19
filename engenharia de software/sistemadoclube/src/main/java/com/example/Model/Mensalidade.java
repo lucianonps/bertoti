@@ -1,12 +1,12 @@
 package com.example.Model;
 
 public class Mensalidade {
-    private Integer id;
+    private int id;
     private String vencimento;
-    private Double valor;
+    private double valor;
     private Socio socio;
 
-    public Mensalidade(Integer id, String vencimento, Double valor, Socio socio) {
+    public Mensalidade(int id, String vencimento, Double valor, Socio socio) {
         super();
         this.id = id;
         this.vencimento = vencimento;
@@ -14,11 +14,11 @@ public class Mensalidade {
         this.socio = socio;
     }
 
-    public Integer getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(Integer id) {
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -44,9 +44,6 @@ public class Mensalidade {
 
     public void setSocio(Socio socio) {
         this.socio = socio;
-    }
-
-    public void add(Mensalidade mensalidade) {
     }
 
 }

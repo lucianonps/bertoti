@@ -25,7 +25,7 @@ public final class App {
         ac.setId(1);
         ac.setNome("Clube");
         ac.setTelefone(new Long(123905878));
-        ac.addAluno(a);
+        ac.AddSocio(a);
 
         System.out.println("___________________________________");
 
@@ -40,7 +40,7 @@ public final class App {
         for (Mensalidade ms : ac.getMensalidade()) {
             System.out.println("Vencimento: " + ms.getVencimento());
             System.out.println("Valor: " + ms.getValor());
-            System.out.println("Aluno: " + ms.getSocio().getName());
+            System.out.println("Socio: " + ms.getSocio().getName());
         }
 
     }

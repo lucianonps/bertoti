@@ -1,20 +1,20 @@
 package com.example.Model;
 
 public class Socio {
-    private int id;
+    private Integer id;
     private String name;
-    private Long telefone;
     private Integer idade;
+    private Long telefone;
 
-    public Socio() {
-
-    }
-
-    public Socio(int id, String name, Integer idade, Long telefone) {
+    public Socio(int id, String name, int idade, Long telefone) {
         this.id = id;
         this.name = name;
         this.idade = idade;
         this.telefone = telefone;
+    }
+
+    public Socio() {
+
     }
 
     public Mensalidade buscarMensalidadePorId(Clube ac, Integer id) {
@@ -64,11 +64,11 @@ public class Socio {
     public static void add(Socio socio) {
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 

@@ -6,24 +6,19 @@ import java.util.List;
 public class Clube {
     private String Nome;
     private Long telefone;
-    private List<Mensalidade> mensalidade = new ArrayList<Mensalidade>();
-    private List<Socio> socio = new ArrayList<Socio>();
+    private List<Socio> socios = new ArrayList<Socio>();
+    private List<Mensalidade> mensalidades = new ArrayList<Mensalidade>();
 
     public Clube() {
 
     }
 
-    public Clube(String nome, Long telefone) {
-        Nome = nome;
-        this.telefone = telefone;
-    }
-
-    public void addAluno(Socio socio) {
-        Socio.add(socio);
+    public void AddSocio(Socio socio) {
+        socios.add(socio);
 
         Mensalidade mensalidade = new Mensalidade(1, "12/10/2022", 100.00, socio);
 
-        mensalidade.add(mensalidade);
+        mensalidades.add(mensalidade);
     }
 
     public Socio getAlunoByNome(Clube ac, String nome) {
@@ -34,11 +29,6 @@ public class Clube {
         }
 
         return null;
-    }
-
-    public void AddSocio(Socio socio) {
-        Socio.add(socio);
-
     }
 
     public String getNome() {
@@ -58,14 +48,14 @@ public class Clube {
     }
 
     public List<Mensalidade> getMensalidade() {
-        return mensalidade;
+        return mensalidades;
     }
 
     public List<Socio> getSocio() {
-        return socio;
+        return socios;
     }
 
-    public void setId(int i) {
+    public void setId(int id) {
     }
 
 }
