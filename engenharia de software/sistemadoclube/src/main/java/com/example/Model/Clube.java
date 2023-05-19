@@ -21,7 +21,7 @@ public class Clube {
         mensalidades.add(mensalidade);
     }
 
-    public Socio getAlunoByNome(Clube ac, String nome) {
+    public Socio getSocioByNome(Clube ac, String nome) {
         for (Socio a : ac.getSocio()) {
             if (a.getName().equals(nome)) {
                 return a;

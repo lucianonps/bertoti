@@ -27,7 +27,7 @@ public class Socio {
         return null;
     }
 
-    public Mensalidade buscarMensalidadePorAluno(Clube ac, Socio socio) {
+    public Mensalidade buscarMensalidadePorSocio(Clube ac, Socio socio) {
         for (Mensalidade m : ac.getMensalidade()) {
             if (m.getSocio() == socio) {
                 return m;

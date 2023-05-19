@@ -30,7 +30,7 @@ class AppTest {
     }
 
     @Test
-    public void AlunosListHasMany() {
+    public void SociosListHasMany() {
         Clube clube = new Clube();
 
         clube.AddSocio(informacao.buildSocio(new Random().nextInt()));
