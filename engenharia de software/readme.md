@@ -39,6 +39,9 @@ Diagrama de caso de uso:
 Classe uml atualização:
 ![image](https://user-images.githubusercontent.com/102562662/227730176-d5d03d0b-dc29-4292-a3b3-343c555db3fc.png)
 
+![image](https://github.com/lucianonps/bertoti/assets/102562662/26be5cf8-46a8-4611-8771-04b90fdc511b)
+
+
 
 
 
