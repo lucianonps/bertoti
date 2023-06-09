@@ -36,6 +36,9 @@ Funcionais:
 Diagrama de caso de uso:
 ![image](https://user-images.githubusercontent.com/102562662/228097080-4bd6222e-6c27-4afa-a856-4dfdaf19046a.png)
 
+![image](https://github.com/lucianonps/bertoti/assets/102562662/f49b07be-15f3-45b4-baf7-55b1517b632f)
+
+
 Classe uml atualização:
 ![image](https://user-images.githubusercontent.com/102562662/227730176-d5d03d0b-dc29-4292-a3b3-343c555db3fc.png)
 
