@@ -31,9 +31,10 @@ Funcionais:
 
 - O atendente deve ser capaz de consultar um sócio por nome
 
+-
 
 
-
+  
 
   O que e trade off ?
 - trade-off refere-se à necessidade de fazer escolhas e compromissos, uma vez que recursos, como tempo, dinheiro, recursos humanos etc., são limitados. Ao tomar uma decisão, é necessário considerar os prós e contras de cada opção e ponderar os benefícios e sacrifícios envolvidos.
