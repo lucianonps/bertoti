@@ -7,6 +7,7 @@ import java.util.Random;
 import org.junit.jupiter.api.Test;
 
 import com.example.Model.Clube;
+import com.example.Model.Socio;
 import com.example.Teste.informacao;
 
 /**
@@ -37,6 +38,16 @@ class AppTest {
         clube.AddSocio(informacao.buildSocio(new Random().nextInt()));
         clube.AddSocio(informacao.buildSocio(new Random().nextInt()));
         assertEquals(3, clube.getSocio().size());
+    }
+
+    @Test
+    public void AlunoByNome() {
+        Clube clube = new Clube();
+        Socio socio = informacao.buildSocio(new Random().nextInt());
+
+        clube.AddSocio(socio);
+
+        assertEquals(socio.getName(), clube.getSocioByNome(clube, socio.getName()).getName());
     }
 
 }
