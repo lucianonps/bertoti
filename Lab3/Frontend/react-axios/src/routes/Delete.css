@@ -1,0 +1,26 @@
+
+.linha{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #00FFFF;
+}
+
+.admin h1{
+    text-align: center;
+}
+
+.bot {
+    background-color: #00FFFF;
+    color: #5a5a5a;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .bot:hover {
+    background-color: #7bcdcd;
+  }
