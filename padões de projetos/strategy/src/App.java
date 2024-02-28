@@ -1,5 +1,11 @@
+
+
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        cliente en = new cliente();
+        en.setEmprestimo(new permitido());
+        en.fazerEmprestimo();
+        
+
     }
 }
