@@ -1,9 +1,9 @@
 
-public class permitido implements Emprestimo{
+public class permitido implements Aluguel{
 
     @Override
-    public void emprestar(){
-        System.out.println("Permitido");
+    public void alugar(){
+        System.out.println("Aluguel permitido");
 
     }
 

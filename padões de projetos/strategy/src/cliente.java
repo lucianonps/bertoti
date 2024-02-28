@@ -1,9 +1,9 @@
 public class cliente {
-    private Emprestimo emprestimo;
-    public void setEmprestimo(Emprestimo emp){
-    emprestimo=emp; } 
+    private Aluguel aluguel;
+    public void setAluguel(Aluguel al){
+    aluguel=al; } 
 
-    public void fazerEmprestimo(){
-        emprestimo.emprestar();
+    public void realizarAluguel(){
+        aluguel.alugar();
     }
 }

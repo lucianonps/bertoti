@@ -1,8 +1,8 @@
 
-public class proibido implements Emprestimo {
+public class proibido implements Aluguel {
 
     @Override
-    public void emprestar(){
-        System.out.println("Proibido");
+    public void alugar(){
+        System.out.println("Aluguel Negado");
     }
 }
