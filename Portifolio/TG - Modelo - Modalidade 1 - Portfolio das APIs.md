@@ -52,8 +52,7 @@ Apresente suas contribuições no projeto. Foque nas funcionalidades em que voc�
 <details>  
 <summary> Saiba mais </summary>
 <imagem src= "C:\Users\lucia\OneDrive - Fatec Centro Paula Souza\Pictures\Screenshots\Captura de tela 2023-10-15 152036.png">
-![cliente](https://fatecspgov-my.sharepoint.com/:i:/r/personal/luciano_silva100_fatec_sp_gov_br/Documents/4semestreBD/bertoti-pesquisa/Captura%20de%20tela%202023-10-15%20152036.png?csf=1&web=1&e=jLWsOS)
-![alt text](<Captura de tela 2023-10-15 152036-1.png>)
+![alt text](image.png)
 
 A imagem acima refere-se a um modal para cadastrar clientes. Nele, preencheremos o CNPJ e a razão social para cadastrar a empresa no sistema.
 
