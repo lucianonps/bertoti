@@ -51,11 +51,55 @@ Apresente suas contribuições no projeto. Foque nas funcionalidades em que voc�
 
 <details>  
 <summary> Saiba mais </summary>
-<imagem src= "C:\Users\lucia\OneDrive - Fatec Centro Paula Souza\Pictures\Screenshots\Captura de tela 2023-10-15 152036.png">
-![alt text](image.png)
+  
+![Captura de tela 2024-05-13 212916](https://github.com/lucianonps/bertoti/assets/102562662/16803d2b-1c4a-4ca1-a51a-a75a89b31e25)
 
 A imagem acima refere-se a um modal para cadastrar clientes. Nele, preencheremos o CNPJ e a razão social para cadastrar a empresa no sistema.
 
+```vuejs
+<div class="modal-body">
+                <div class="row">
+                    <div class="col-12" style="margin-top: 10px;">
+                        <div class="form-group">
+                            <label for="cod">Razão Social</label>
+                            <input type="text" class="form-control" id="cod" v-model="nomeRs">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12" style="margin-top: 20px;">
+                        <div class="form-group">
+                            <label for="sigla">CNPJ</label>
+                            <input type="text" class="form-control" id="sigla" v-model="siglaCnpj">
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row mt-4">
+                    <div class="col">
+                        <button type="button" @click="save()" class="btn btn-success">Salvar</button>
+                        <button type="button" @click="close()" class="btn btn-link r-ml-2">Cancelar</button>
+                    </div>
+                </div>
+```
+
+</details>
+
+-Combobox: 
+Implementei o combobox na tela de lançamento de hora extra para que pudesse obter os dados de CR, modalidade e cliente, possibilitando assim que sejam anexados quando a hora extra for lançada.
+
+<details>  
+<summary> Saiba mais </summary>
+  
+![Captura de tela 2024-05-15 205239](https://github.com/lucianonps/bertoti/assets/102562662/84ef4a5c-5204-4987-a521-11c944cf0601)
+
+A imagem acima refere-se à implementação de um combobox. Nele, selecionamos os dados de cliente, modalidade e CR, o que nos permite preencher os outros campos da tela e consequentemente, lançar a hora com exatidão.
+
+
+
+
+  
 </details>
 
 #### Hard Skills
@@ -64,17 +108,6 @@ Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o n�
 #### Soft Skills
 Apresente as soft skills que você utilizou/desenvolveu durante o projeto e em quais situações elas foram fundamentais. Exemplo: Comunicação - Precisei exercitar minhas habilidades de comunicação para viabilizar as reuniões semanais levando em conta as disponibilidades dos membros, que não cursavam as mesmas disciplinas.
 
-### Em 2022-1
-Mesmo formato
-
-### Em 2022-2
-Mesmo formato
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
 
 
 
