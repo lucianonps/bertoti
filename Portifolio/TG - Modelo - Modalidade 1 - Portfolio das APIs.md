@@ -1,5 +1,4 @@
-# Coloque seu nome aqui
-Luciano do Nascimento Pamplona da Silva 
+# Luciano do Nascimento Pamplona da Silva 
 
 ## Introdução
 
@@ -24,7 +23,9 @@ Minhas habilidades principais incluem:
 
 ## Meus Projetos
 
-### Em 2021-2
+### Em 2023-2
+**A Empresa Parceira:**  2RP.
+
 O projeto envolve a criação de um sistema para controlar a jornada de trabalho dos colaboradores, capaz de identificar e classificar horas extras, além de gerenciar o registro e controle dessas horas extras e sobreavisos. Um dos principais desafios que a empresa enfrentava era a dificuldade em registrar com precisão as horas extras dos colaboradores. Para resolver essa questão, optamos por desenvolver um aplicativo capaz de registrar de forma abrangente as horas trabalhadas e que possa ser monitorado pela empresa.
 A empresa parceira é a 2RP, reconhecida por sua atuação na análise de transações financeiras e de dados.
 
