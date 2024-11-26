@@ -86,10 +86,6 @@ Fui responsável pelo desenvolvimento do DAO (Data Access Object) para o extrato
 <details>  
 <summary> Saiba mais </summary>
   
-![Captura de tela 2024-05-15 205239](https://github.com/lucianonps/bertoti/assets/102562662/84ef4a5c-5204-4987-a521-11c944cf0601)
-
-A imagem acima refere-se à implementação de um combobox. Nele, selecionamos os dados de cliente, modalidade e CR, o que nos permite preencher os outros campos da tela e consequentemente, lançar a hora com exatidão.
-
 ##
 ```java
 public class ExtratoHoraDAO extends BaseDAO {
@@ -181,7 +177,7 @@ Fui responsável pela criação de um controlador para a geração de relatório
 <details>
 <summary> Saiba mais </summary>
   
-![Captura de tela 2024-05-26 175302](https://github.com/lucianonps/bertoti/assets/102562662/1820b42b-c7f7-4281-b614-d718c1b17873)
+![Captura de tela 2024-05-26 175302](https://github.com/lucianonps/bertoti/blob/main/portifolio-bd/2sem/image.png)
 
 A imagem acima mostra a tela de visualização, que inclui um botão para gerar o relatório. será gerado em formato CSV com base nos dados filtrados pelos parâmetros fornecidos.
 

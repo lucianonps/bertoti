@@ -26,10 +26,10 @@ Minhas habilidades principais incluem:
 * [1º SEM]()
 
 ### Em 2023-1
-* [2º SEM]()
+* [2º SEM](https://github.com/lucianonps/bertoti/tree/main/portifolio-bd/2sem)
 
 ### Em 2023-2
-* [3º SEM]()
+* [3º SEM](https://github.com/lucianonps/bertoti/tree/main/portifolio-bd/3sem)
 
 ### Em 2024-1
 * [4º SEM]()
