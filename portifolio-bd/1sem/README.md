@@ -11,11 +11,12 @@ Ela funciona recebendo o comando por voz (por meio do professor) e realizando em
 [GIT](https://github.com/joaovtmarques/assistente_virtual_boardclass)
 
 #### Tecnologias Utilizadas
-Design: Figma
-Ecossistema: Node.js
-Front End: React
-Back End: AdonisJS
-Banco de dados: PostgreSQL
+
+-Design: Figma
+-Ecossistema: Node.js
+-Front End: React
+-Back End: AdonisJS
+-Banco de dados: PostgreSQL
 
 ### Contribuições Pessoais
 
@@ -30,7 +31,7 @@ Contribuí no desenvolvimento da funcionalidade de comando de voz, sendo respons
 <details>  
 <summary> Saiba mais </summary>
 
-  ![Captura de tela 2024-05-26 175302]()
+  ![Captura de tela 2024-05-26 175302](https://github.com/lucianonps/bertoti/blob/main/portifolio-bd/1sem/co-api.png)
 
 A imagem acima mostra a tela de comando de voz, que contém um botão para iniciar o reconhecimento de voz. A partir dos comandos falados, o sistema é capaz de realizar ações específicas, como redirecionar o usuário para a tela correspondente ao comando e transcrever todo o conteúdo falado, exibindo-o na interface em tempo real
 
@@ -150,6 +151,9 @@ export const Note = () => {
 ```
 A função Note() é responsável por gerenciar a exibição e manipulação das notas no sistema. Ela realiza uma consulta à API para obter as notas, que são então armazenadas no estado notes e exibidas na interface. Caso ocorra algum erro durante a obtenção das notas, um alerta é exibido ao usuário com uma mensagem informando sobre o problema. A funcionalidade permite que as notas sejam carregadas dinamicamente e fornece feedback ao usuário em caso de falhas na operação
 
+##
+
+</details>
 
 #### Hard Skills
 <details>
