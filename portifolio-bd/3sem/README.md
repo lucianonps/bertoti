@@ -27,10 +27,7 @@ A empresa parceira é a 2RP, reconhecida por sua atuação na análise de transa
 ### Contribuições Pessoais
 
 #### -Nesse projeto atuei no:
-
-•	Frontend: utilizando as tecnologias de vue e typescrip ;
-
-•	Figma;
+Nesse projeto, atuei como desenvolvedor, contribuindo ativamente para a implementação, otimização e entrega de funcionalidades essenciais. Minhas responsabilidades incluíram o desenvolvimento de soluções, melhorias no código, e a colaboração com a equipe para garantir a qualidade e eficiência do sistema.
 
 
 #### -Cadastro de cliente:

@@ -1,6 +1,6 @@
 ## Meus Projetos
 
-### Em 2023-2
+### Em 2024-1
 **A Empresa Parceira:**  Oracle.
 
 O projeto consiste em desenvolver um sistema para acompanhar o progresso dos parceiros da Oracle no programa Oracle PartnerNetwork, além de realizar o cadastro de novos parceiros e gerenciar as informações dos parceiros já existentes da empresa.
@@ -27,7 +27,7 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 
 #### -Nesse projeto atuei no:
 
-Nesse projeto atuei como desenvolvedor. minhas contribuições foram
+Nesse projeto, atuei como desenvolvedor, contribuindo ativamente para a implementação, otimização e entrega de funcionalidades essenciais. Minhas responsabilidades incluíram o desenvolvimento de soluções, melhorias no código, e a colaboração com a equipe para garantir a qualidade e eficiência do sistema.
 
 
 #### -Cadastro de Parceiro:
@@ -37,7 +37,7 @@ Desenvolvi a tela de cadastro de parceiros, que foi implementada com um modal on
 <details>  
 <summary> Saiba mais </summary>
   
-![Captura de tela 2024-05-13 212916]()
+![Captura de tela 2024-05-13 212916](https://github.com/lucianonps/bertoti/blob/main/portifolio-bd/4sem/image.png)
 
 A imagem acima refere-se a uma tela de cadastro de parceiro. Nele, preencheremos o nome, cidade, pais e o email para cadastrar o parceiro no sistema.
 
@@ -87,7 +87,7 @@ Implementei a funcionalidade de visualização de parceiros na tela, permitindo 
 <details>  
 <summary> Saiba mais </summary>
   
-![Captura de tela 2024-05-15 205239]()
+![Captura de tela 2024-05-15 205239](https://github.com/lucianonps/bertoti/blob/main/portifolio-bd/4sem/visu-api.png)
 
 A imagem acima refere-se à visualização de parceiros, onde é possível ver os parceiros cadastrados no sistema.
 
@@ -127,7 +127,7 @@ Desenvolvi uma funcionalidade que permite ao usuário selecionar uma empresa e, 
 <details>
 <summary> Saiba mais </summary>
   
-![Captura de tela 2024-05-26 175302]()
+![Captura de tela 2024-05-26 175302](https://github.com/lucianonps/bertoti/blob/main/portifolio-bd/4sem/dash-api.png)
 
 A imagem acima refere-se à tela de Dashboard, onde é possível visualizar gráficos dinâmicos.
 

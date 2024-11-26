@@ -22,7 +22,7 @@ A empresa parceira é a 2RP, reconhecida por sua atuação na análise de transa
 
 #### -Nesse projeto atuei no:
 
-Nesse projeto atuei como desenvolvedor. minhas contribuições foram
+Nesse projeto, atuei como desenvolvedor, contribuindo ativamente para a implementação, otimização e entrega de funcionalidades essenciais. Minhas responsabilidades incluíram o desenvolvimento de soluções, melhorias no código, e a colaboração com a equipe para garantir a qualidade e eficiência do sistema.
 
 
 #### - Desenvolvimento da Tela de Lançamento de Horas:

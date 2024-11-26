@@ -32,4 +32,4 @@ Minhas habilidades principais incluem:
 * [3º SEM](https://github.com/lucianonps/bertoti/tree/main/portifolio-bd/3sem)
 
 ### Em 2024-1
-* [4º SEM]()
+* [4º SEM](https://github.com/lucianonps/bertoti/tree/main/portifolio-bd/4sem)
