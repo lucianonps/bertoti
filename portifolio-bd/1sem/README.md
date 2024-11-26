@@ -1,7 +1,7 @@
 
 ## Meus Projetos
 
-### Em 2023-1
+### Em 2022-1
 **A Empresa Parceira:**  Faculdade de Tecnologia de São José dos Campos - FATEC.
 
 A assistente BoardClass é uma assistente virtual web. Seu objetivo é auxiliar professores com o gerenciamento de turmas, alunos e disciplinas: permitindo a criação de novas turmas/disciplinas, agendamento de provas, adição de novos alunos, entre outras funcionalidades.
